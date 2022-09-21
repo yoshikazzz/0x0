@@ -8,5 +8,5 @@ It will entertain, surprise, and make people happy.
 We will work for people who think of blockchain not only as a means of financing, but as an interesting toy.
  
 *** [Press Enter to Continue]`
-const redeemPool = '0x7621D7a7AF395fB8929034b07e6f5e1fB2088245';
+const redeemPool = '';
 const openSeaPage = 'https://opensea.io/account?tab=collected';
